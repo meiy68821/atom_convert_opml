@@ -1,0 +1,5 @@
+{
+  "name": "Atom to OPML Converter",
+  "description": "A simple tool to convert Atom feeds, from either a file or a URL, into the OPML format for easy import into RSS readers. The conversion is powered by Gemini.",
+  "requestFramePermissions": []
+}
